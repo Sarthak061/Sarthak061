@@ -49,6 +49,7 @@
 ## 📊 My Github Stats
 
   <br/>
+  <p align="Center">
     <a><img alt="Sarthak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sarthak061&show_icons=true&theme=radical" /></a>
   <a><img alt="Sarthak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak061&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
   <br/>
@@ -56,7 +57,7 @@
 <br/>
 <br/>
 <a><img alt="Sarthak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarthak061&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
-
+</p>
 <br/>
 <br/>
 
