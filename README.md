@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://www.clipartmax.com/max/m2H7H7K9Z5i8G6N4/" width="1s0px">, I'm Sarthak Sharma</h1>
+<h1 align="center">Hi <img src="https://www.clipartmax.com/png/full/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="1s0px">, I'm Sarthak Sharma</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
 
